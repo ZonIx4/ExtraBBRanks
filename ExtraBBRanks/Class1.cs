@@ -133,9 +133,9 @@ namespace ExtraBBRanks
                     levelGameObject.SetActive(true);
                     sceneChanged = false;
                 }
-                catch (System.Exception ex)
+                catch
                 {
-                    
+                 
                 }
             }
         }
